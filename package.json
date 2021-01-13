@@ -1,0 +1,23 @@
+{
+  "name": "mochatestpractice",
+  "version": "1.0.0",
+  "description": "tests unitaris",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alexgb24/TestMocha"
+  },
+  "keywords": [
+    "mocha",
+    "tests",
+    "chai"
+  ],
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "axios": "^0.21.1",
+    "chai": "^4.2.0"
+  }
+}
